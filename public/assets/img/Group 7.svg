@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="29px" viewBox="0 0 144 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>2D67372A-BFD3-4706-859F-998CB2D89E72</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Forgot-password---2---Change-your-password" transform="translate(-114.000000, -27.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1366" height="768"></rect>
+            <g id="Group" fill="#FFFFFF" stroke="#EDEDED">
+                <rect id="Rectangle" x="0" y="0" width="1366" height="82"></rect>
+            </g>
+            <g id="Group-7" transform="translate(114.000000, 27.000000)">
+                <text id="Data-Copy" font-family="FuturaPT-Bold, Futura PT" font-size="35.5999994" font-weight="bold" line-spacing="17.7999997" letter-spacing="-1.424" fill="#088B8B">
+                    <tspan x="0" y="44.7899998">THERISR</tspan>
+                </text>
+                <path d="M135.569592,0.238392853 C135.728521,-0.0794642844 135.966914,-0.0794642844 136.125842,0.238392853 L138.072717,4.13214279 C138.231646,4.44999993 138.628967,4.72812492 138.986556,4.76785707 L143.31736,5.40357134 C143.674949,5.44330348 143.754413,5.68169634 143.476288,5.92008919 L140.337449,8.939732 C140.099056,9.17812485 139.940128,9.65491056 139.97986,10.0124998 L140.734771,14.3035712 C140.774503,14.6611605 140.575842,14.7803569 140.297717,14.6214283 L136.443699,12.5950891 C136.125842,12.4361605 135.649056,12.4361605 135.331199,12.5950891 L131.477182,14.6214283 C131.159324,14.7803569 130.960664,14.6214283 131.040128,14.3035712 L131.795039,10.0124998 C131.834771,9.65491056 131.715574,9.17812485 131.437449,8.939732 L128.29861,5.92008919 C128.060217,5.68169634 128.139682,5.44330348 128.457539,5.40357134 L132.74861,4.76785707 C133.106199,4.72812492 133.503521,4.41026779 133.662449,4.13214279 L135.569592,0.238392853 Z" id="Path" fill="#0A8080" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

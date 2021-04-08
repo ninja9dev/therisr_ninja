@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap');
+/*font-family: 'Zilla Slab', serif;*/
+@import url('https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap');
+/*font-family: 'DM Sans', sans-serif;
+*/
+p,a,ul,li,span .form-control{font-family: 'DM Sans', sans-serif;}
+h1{font-family: 'Zilla Slab', serif;}
+
+::-webkit-input-placeholder { /* Edge */
+	font-family: 'DM Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 500 !important;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	font-family: 'DM Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 500 !important;
+}
+
+::placeholder {
+	font-family: 'DM Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 500 !important;
+}
+.reports-info {
+    padding-top: 60px;
+}
+.report-inner.text-center {
+    border: 1px solid #F8F6F4;
+    border-radius: 5px;
+    background-color: #F8F6F4;
+    padding: 50px 15px;
+    margin-bottom:15px;
+}
+.monthly-earnings {
+  color: #62636B;
+  font-family: "DM Sans";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;margin-bottom:4px;
+}
+.numn {
+  color: #0A8080;
+  font-family: "DM Sans";
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;margin-bottom:4px;
+}
+.usd {
+  color: #272929;
+  font-family: "DM Sans";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.report-inner.menus-report {
+    box-sizing: border-box;
+    border: 1px solid rgba(143,146,161,0.25);
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.15);
+    padding: 10px 0;
+}
+.all-contracts {
+  color: #0A8080;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+}
+.menus-report .menu-links {color: #272929;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-decoration: none;
+  }
+  .menus-report .find-jobs{  color: #62636B;
+  font-family: "DM Sans";
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 36px;}
+  .report-accordion .card-header {
+  box-sizing: border-box;
+  border: 1px solid #F8F6F4;
+  border-radius: 5px;
+  background-color: #F8F6F4;
+}
+.report-accordion h6{
+  color: #0A8080;
+  font-family: "DM Sans";
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;}
+ .report-accordion .front-end-developer {
+  color: #272929;
+  font-family: "Zilla Slab";
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: justify;margin-bottom:15px;
+  }
+ .hired-by-company-us {
+  color: #62636B;
+  font-family: "DM Sans";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.report-accordion .tootl-width {
+    padding-bottom: 15px !important;
+    padding: .75rem 1.75rem;
+    background: #f8f6f4;
+    margin: 0;
+    width: 100%;
+    padding-top: 15px;
+}
+.report-accordion .front-end-developer{    margin-bottom: 0;}
+.report-accordion .panel-title {
+    margin-bottom: 0;
+}.report-accordion #collapseOne {
+    background: #f8f6f4;
+}
+.report-accordion .fas.fa-ellipsis-v {
+    position: absolute;
+    right: 30px;top: 20px;
+    font-family: fontawesome;
+    font-style: normal;
+    font-size: 18px;
+}
+.report-accordion .front-end-developer {
+    text-decoration-line: none !important;
+}
+.this-week {
+  cursor: default;
+  color: #000000;
+  font-family: "DM Sans";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 26px;text-transform:uppercase;
+}
+.report-accordion ul {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 30px;
+    display: inline-block;
+    margin-right: 40px;
+}
+.report-accordion .card-body {
+    background: #fff;
+    border: 1px solid #dddddd2b;
+}.border-hr {
+    border: 1px solid #dddddd30;
+    margin: 26px 0;
+}
+.click-log-time-below.big-size{font-size:14px}
+.report-accordion .hrs {
+  cursor: default;
+    color: #0A8080;
+    font-family: "DM Sans";
+    font-size: 28px;
+    font-weight: 500;
+    text-decoration-line: none !important;
+}
+.report-accordion .hrs span {
+  color: #000;
+}
+.up-to-hrs-limit {
+  cursor: default;
+  color: #62636B;
+  font-family: "DM Sans";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.timesheet {
+  color: #272929;
+  font-family: "Zilla Slab";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: justify;
+  margin:10px;
+}
+.report-main-table th{ color: #62636B;
+  font-family: "DM Sans";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 24px;text-transform:uppercase;
+  }
+  .report-main-table thead th {
+    border-bottom: 1px solid #FC9F5B;
+}
+.report-main-table td, .report-main-table th {
+    border-top: transparent;
+}
+.main-pad.small-mrg{margin-right:55px;}
+.click-log-time-below {
+  color: #62636B;
+  font-family: "DM Sans";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.click-log-time-below {
+    color: #62636B;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    padding: 15px 0;
+    background: #F8F6F4;
+}.table.report-main-table {
+    margin-bottom: 0;
+}
+.log-btn-rep i {
+    font-family: fontawesome;
+    font-style: normal;
+    font-size: 13px;
+}
+.log-btn-rep {
+  box-sizing: border-box;
+  height: 55px;
+  border: 1px solid rgba(143,146,161,0.2);
+  border-radius: 0 0 5px 5px;
+  display: flex;
+}
+.btn-fill{
+	border: 1px solid #0A8080;
+  border-radius: 5px;
+  background-color: #0A8080;color:#fff !important;
+}
+.total{
+	    color: #272929;
+    font-family: "DM Sans";
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: right;margin-top: 15px;
+}
+.btn-logn, .btn-logn:hover {
+    margin: 10px !important;
+    display: block;
+    height: 32px;
+    width: 96px;
+    border: 1px solid #0A8080;
+    border-radius: 5px;
+    line-height: 29px;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    color: #0A8080;
+    font-size: 14px;
+    font-weight: 500;
+}.no-ta {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+.report-accordion .card {
+    margin-bottom: 28px;
+    border: transparent;
+}
+.log-btn-rep.milst-btn .btn-logn {
+    width: 138px !important;
+}
+.left-right {
+    margin-bottom: 20px;
+    display: flow-root;
+}
+.reports-info #accordionExample {
+    clear: both;
+    display: block;
+}

@@ -1,0 +1,672 @@
+@media only screen and (max-width:1199px){
+.job-listing-profile
+{
+	height:100%;
+}
+.freelancing-landing-page.text-center.pos-rel .button-right.text-right span.toogls-srs {
+    padding: 0 10px!important;
+}
+.padding-ser .left-right .span-main.right-menu .dropdown.drop-show-all .dropdown-menu {
+    left: auto!important;
+    right: 0px!important;
+}
+.forgot-content.chge-pswd-pres .forgot-form-cont .signin-btn button.btn {
+    width: 100%;
+}
+.profile-info-btn {
+    width: 100%;
+    text-align: right;
+    padding-bottom: 20px;	
+}
+.profile-info .padding-ser .inner-txt-cont {
+    padding-left: 0px;
+}
+.profile-info .paddin-btms .padding-ser .inner-profile {
+    width: auto;
+	height: auto;
+}
+.form.form-input-set input.form-control , .form.form-input-set button.rectangle , .form.form-input-set button.cancel
+{
+	float:inherit;
+}
+.report-accordion .front-end-developer
+{
+	white-space:normal;
+	padding-right:40px;
+}
+.report-accordion ul {
+    padding-left: 15px;
+    margin-right: 10px;
+}
+}
+@media only screen and (max-width:1199px)and (min-width:1024px) {
+.padding-ser .jb-pd-l {
+    padding-left: 5px!important;
+}
+}
+
+@media only screen and (max-width:991px){
+.freelancing-landing-page.text-center.pos-rel .button-right.text-right span.toogls-srs {
+    padding: 0px 4px!important;
+}
+.freelancing-landing-page.text-center.pos-rel .button-right .btn.btn-primary {
+    padding: 10px 10px;
+}
+.report-accordion .front-end-developer {
+    text-align: initial;
+}
+.otherLinks ul:last-child li a {
+    margin-left: 20px;
+}
+.inner-report-cont.free-response .actnBtns {
+    display: block;
+    width: 100%;
+    float: left;
+
+}
+.inner-report-cont.free-response .allproposalLists .freelanDetails .d-flex {
+    display: block!important;
+    margin-left: 10px!important;
+}
+.modal.mdl-apply .modal-body {
+    padding: 15px 15px;
+}
+.modal.mdl-apply .modal-body .hourly-rate {
+    color: #272929;
+    font-family: "DM Sans";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: justify;
+}
+/* employer-setting-general */
+
+.set .setting {
+    font-size: 20px;
+}
+
+/* employer-setting-general */
+
+/* employer-setting-notification */
+
+.form.spt ul.checkall.new-place .main-tab
+{
+	margin:0px;
+	width: auto;
+}
+
+/* employer-setting-notification */	
+.forgot-content.chge-pswd-pres
+{
+	padding-top:80px;
+}
+.box-portfoli h4.sc-ttl span.sml-rx {
+    font-size: 14px;
+}
+.box-portfoli h4.sc-ttl a {
+    font-size: 14px;
+}
+#frame .content .messages ul li p {
+    max-width: 334px;
+}
+#frame .content .messages ul li.replies p span img.mesg-img {
+    max-width: 135px;
+}
+#frame .content .messages ul li.replies p span {
+    display: flex;
+	flex-wrap:wrap;
+}
+}
+@media only screen and (max-width:767px){  
+    .uplad-sction{
+        overflow:hidden; 
+    }
+.inner-profile.inr-prfle-wd {
+    width: 100%;
+    margin-bottom: 25px;	
+}	
+.freelancing-landing-page.text-center.pos-rel .button-right .btn.btn-primary {
+    padding: 10px 7px;
+}
+.freelancing-landing-page.text-center.pos-rel .button-right.text-right span.toogls-srs {
+    padding: 0px 2px;
+}
+.freelancing-landing-page .form-control.form-control-sm {
+    width: 87%;
+}
+.report-accordion .front-end-developer {
+    font-size: 22px;
+    text-align: initial;
+}
+.reports-info.reprt-resp-sec .inner-report-cont {
+    padding-top: 30px;
+}
+/* employer-setting-notification */
+	
+.new {
+    top: -50px;
+    right: 0px;
+}
+
+/* employer-setting-notification */
+/* header responsive */
+
+header.landing-page-header nav.navbar ul.navbar-nav li.nav-item {
+    display: block;
+    border-top: 1px solid #fafafa;
+    padding: 6px 0 0;
+    margin-top: 6px;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-size: 17px;
+    font-weight: 400;
+    position: relative;
+}
+.navbar-light .navbar-nav .nav-link:after{
+    content: ">";
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    color: #aaa;
+    font-size: 18px;
+    margin: auto;
+    height: 20px;
+}
+.navbar-light .navbar-nav .nav-link .notice{
+    float: right;
+    margin-right: 15px;
+}
+header.landing-page-header nav.navbar ul.navbar-nav li.nav-item a.nav-link {
+    text-align: left;
+}
+
+/* header responsive */
+
+.profile-info.freelancing-pro-info .paddin-btms .padding-ser .jb-pd-l {
+    padding-left: 15px!important;
+}
+.profile-info.freelancing-pro-info .paddin-btms .padding-ser .inner-freelancing-listin .job-listing-profile .money-fonts a
+, .profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .body-dtlds .bordr-frts  .money-fonts a
+{
+    margin-right: 15px;
+}
+.inner-txt-cont h3 {
+    font-size: 21px;
+}
+.profile-info .padding-ser .inner-txt-cont .inner-border {
+    padding: 15px;
+}
+.accordin-set a.btn.btn-link
+{
+	white-space:normal;
+    padding-right: 12px;	
+}
+.hiring-popup .close img {
+    right: 0px;
+    top: -50px;
+}
+.social-iv .tbl-st {
+    margin: 7px 0 10px 0;
+}
+.inner-txt-cont.profilrmrt
+{
+	margin-top:20px;
+}
+.image-right.displaynone-img
+{
+	display:none;
+}
+.left-content.loginpd-respons {
+    width: 100%;
+    padding: 80px 0px 50px;
+}
+.modal.modl-jb-lst2 button.close {
+    top: -48px;
+right:0px;
+}
+.reports-info.reprt-resp-sec.freelancing-pro-info.clentjoblisting .jb-pd-l {
+    padding-left: 15px!important;
+}
+.jb-pd-l.pd-l0
+{
+	padding-left:15px!important;
+}
+	
+#frame #sidepanel {
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+}
+#frame .content {
+    width: 100%;
+    height: 100%;
+}
+#frame #sidepanel #contacts {
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#frame .content .contact-profile .person-info
+{
+	width:80%;
+}
+#frame .content .messages ul
+{
+	padding:0px;
+}
+.nameTitle h3 {
+    font-size: 24px;
+}
+.inner-report-cont.free-response .allproposalLists .freelanDetails .d-flex {
+    margin-left: 0px!important;
+}
+.header-logo {
+    padding-left: 10px;
+}
+span.error-msgs
+{
+    display:none;
+}
+}
+@media only screen and (max-width:575px){
+.report-accordion ul{
+    padding-left: 15px !important;
+}
+.grap {
+    margin-left: 40px;
+}
+.inner-table-box{
+    margin-bottom: 15px;
+}
+.inner-table-box.jobDescri p{
+    padding:0 15px;
+}
+.tag-pl-0{
+    margin-left:40px;
+}
+.freelancing-landing-page.pos-rel{
+	height:100%!important;
+}
+.inner-report-cont .table-responsive table {
+    white-space: nowrap;
+}		
+.freelancing-landing-page.pos-rel .srch-bord-res{
+    border-bottom: 1px solid #f1f1f1;	
+}
+
+.profile-info.freelancing-pro-info .paddin-btms .padding-ser .inner-freelancing-listin .job-listing-profile .money-fonts a
+, .profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .body-dtlds .bordr-frts  .money-fonts a
+{
+    display: block;
+    padding-bottom: 12px;
+}
+.profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .body-dtlds .bordr-frts h1
+, .padding-ser .inner-freelancing-listin h1
+{
+	font-size:24px;
+}
+.profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .body-dtlds .bordr-frts.jb-despt p
+, .inner-freelancing-listin .job-listing-profile .sed-ut-perspiciatis , .padding-ser .left-right a
+{
+	font-size:14px;
+}
+.padding-ser .span-main.right-menu .dropdown.drop-show-all {
+    margin-left: 10px;
+    width: 106px;
+    margin-bottom: 0px;
+}
+
+.profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .header-lts ul a.like-hrt {
+    padding: 8.25px 18.89px;
+    margin-right: 5px;
+}
+.profile-info.freelancing-pro-info .details-all-show.jb-dtl-skip .header-lts ul a.apply-btn {
+    padding: 9px 10px;
+}
+.modal.mdl-jb-wdth h1.modal-title {
+    font-size: 20px;
+}
+
+.bg-box-rs {
+    left: 0px!important;
+    right: auto!important;
+	width: 250px!important;
+}
+.bg-box-rs .main-tab {
+    width: auto;
+}
+.fltr-joins {
+    width: 270px!important;
+}
+.fltr-joins ul.fltr-alrts li {
+    min-width: 48px!important;
+    font-size: 14px!important;
+}
+.fltr-joins ul.fltr-alrts li:first-child {
+    min-width: 40%!important;
+}
+.filtr-all-flds .col-wdth {
+    flex-basis: inherit;
+}
+a.btn-cntrs {
+    padding: 10px 45px;
+}
+.self-design.employr-resve
+{
+	margin-bottom:30px;
+}
+.jobdetailsCon ul li {
+    width: 100%;
+}
+.reports-info.reprt-resp-sec .inner-report-cont .otherLinks ul.nav li {
+    display: inline-block!important;
+}
+.reports-info.reprt-resp-sec .inner-report-cont .otherLinks {
+    display: block;
+}
+.reports-info.reprt-resp-sec .inner-report-cont .otherLinks ul.nav li a {
+    margin-left: 0px;
+}
+.modal.modl-jb-lst2 .modal-header ul {
+    margin: 14px 0px 0px 0px;
+}
+.freelanDetails .nameTitle {
+    display: block;
+}
+.modal.modl-jb-lst2 .modal-header ul a.modl-hre-btn {
+    padding: 9px 18px;
+}
+/* employer-setting-notification */
+
+.form.spt .savewidth button , form .form .savewidth button {
+    width: 100%;
+}
+.form.spt .savewidth , form .form .savewidth {
+    padding-right: 30px;
+}
+
+/* employer-setting-notification */
+.spt .connect {
+    width: 130px;
+}
+	
+.forgot-content.chge-pswd-pres h1 {
+    font-size: 32px;
+    padding: 0px 5px;	
+}
+.forgot-content.chge-pswd-pres .dan-morries-abc-dan {
+    font-size: 14px;
+}
+.forgot-content.chge-pswd-pres .forgot-form-cont h6.it-may-take-several {
+    font-size: 14px;
+    line-height: 24px;
+}
+.accordin-set .card-body {
+    font-size: 14px;
+}
+.main-box img {
+    width: 20px;
+    height: 23px;
+    object-fit: contain;
+}
+.main-lft {
+    padding-left: 4px;
+}
+.main-box .study {
+    width: 22px !important;
+}
+.update-proj .left-hiring-txt form
+{
+	width:auto;
+}
+.accordion.tabs-fll-w .padding-srt .dropdown.drop-show-all {
+    width: 80%!important;
+    float: left;
+}
+.accordion.tabs-fll-w .card .card-header button.btn.btn-link {
+    font-size: 20px;
+    white-space: normal;
+}
+.accordion.tabs-fll-w .card .card-header button.btn.btn-link:after {
+    right: 8px;
+}
+.accordion.tabs-fll-w .card .card-header button.btn.btn-link.collapsed:after {
+    right: 9px;
+}
+.border-upper .main-my {
+    width: 300px;
+}
+.left-content h1 {
+    font-size: 32px;
+}
+ul.uploaded-imgs li {
+  
+  margin-bottom: 15px;
+}
+ul.uploaded-imgs {
+    display: block;
+}
+.forgot-content.freelancer-signup h1 {
+    font-size: 32px;
+}
+.almost-done {
+    padding: 23px;
+    width: 100%;
+}
+.forgot-content.almost-done .forgot-form-cont .main-tab {
+    width: auto;
+}
+.forgot-content.verify-email h1 {
+    font-size: 32px;
+}
+.forgot-content.verify-email .forgot-form-cont h3 {
+    font-size: 14px;
+}
+.post-job-cont .card-body .post-jb-qufns , .post-job-cont .card-body .modl-terms , .post-job-cont .card-body .post-jb-qufns {
+    padding: 30px 20px 20px;
+}
+.post-job-cont .card-body .post-jb-qufns .dropdown.drop-show-all {
+    width: 100%!important;
+    max-width: 248px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .contract-review ul li span {
+    padding-left: 8px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .contract-review ul li i {
+    font-size: 18px;
+    padding-right: 2px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .contract-review ul li {
+    font-size: 14px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-head h1 {
+    font-size: 24px;
+    padding: 24px 15px 24px;	
+}
+.end-cotrct-sec .end-cotrct-mn .end-body {
+    padding: 30px 15px  10px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .project-name h4 {
+    font-size: 14px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .project-name.rate-experince h5 {
+    font-size: 14px;
+}
+.work-experince .raev-date-upper .frm-relatve:after {
+    right: 0px;
+	top:initial;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    text-align: center;
+}
+.work-experince .raev-date-upper .frm-relatve .dropdown.drop-show-all {
+    margin-bottom: 30px;
+}
+.modal.modl-jb-lst2 .modl-cvr-ltr p {
+    font-size: 14px;
+}
+.modal.modl-jb-lst2 .modal-body .modl-wrk-hstry .baknd-dvlpr p {
+    font-size: 14px;
+}
+}
+
+@media only screen and (max-width:489px){
+.border-upper .main-my {
+    width: 100%;
+}	
+.border-upper .main-lft .link {
+    padding: 18px 0 0px;
+    display: inline-block;
+}
+.border-upper .main-box img {
+    margin: 10px;
+}
+.padding-srt .inp input {
+    width: 100%!important;
+}
+.login-form .left-content.loginpd-respons form
+{
+	width:auto;
+}
+.login-form .left-content.loginpd-respons .signin-btn button
+{
+	width:100%;
+}
+.left-content.loginpd-respons {
+    padding: 80px 40px 50px;
+}
+.forgot-form-cont.siginpd-respons input.form-control {
+    width: 100%!important;
+}
+.forgot-form-cont.siginpd-respons {
+    padding: 0px 40px;
+}
+.forgot-form-cont.siginpd-respons .signin-btn button {
+    width: 100%;
+}
+.forgot-content.almost-done .forgot-form-cont .signin-btn button {
+    width: 100%;
+}
+.almost-done .misc-field, .left-side.misc-field {
+    height: 89px;
+    width: 120px;
+}
+.forgot-form-cont .dropdown-menu
+{
+	width:auto!important;
+}	
+.verify-email img.verfy-img {
+    max-width: 100%;
+}
+.forgot-content.verify-email .forgot-form-cont .signin-btn button {
+    width: 100%;
+}
+.forgot-content.verify-email {
+    padding: 50px 40px;
+}
+.log-btn-rep
+{
+	display:block;
+	    height: auto;
+}
+.log-btn-rep .btn-area {
+    width: 100%;
+}
+.log-btn-rep p.total {
+    text-align: left;
+    padding-left: 12px;
+}
+ul.tootl-width li {
+    width: 100%;
+}
+.log-btn-rep  .btn-area a.btn-logn {
+    display: inline-block;
+    width: 90px;
+}
+.actnBtns {
+    display: block;
+}
+.modal.modl-jb-lst2 .modal-header ul.vew-pfle-ul a {
+    margin-right: 7px!important;
+}
+.modal.modl-jb-lst2 .modal-header ul a.modl-msg-btn {
+    padding: 7px 18px!important;
+}
+.modal.modl-jb-lst2 .vew-prfle-rate h4 {
+    font-size: 24px;
+}
+.modal.modl-jb-lst2 .modal-body .mdl-lke-hre .dropdown.drop-show-all {
+    width: 100%!important;
+}
+.modal.modl-jb-lst2 .modal-body .modl-dlvr-descp h1 {
+    font-size: 20px;
+    text-align: initial;
+}
+.modal.modl-jb-lst2 .modal-body .modl-terms .nav-tabs .nav-item .nav-link {
+    padding: 32px 28px 31px;
+}
+.allproposalLists {
+    padding: 15px;
+}
+.inner-report-cont.free-response .actnBtns a.btn.btn-primary {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.profile-info .padding-ser .post-fish-sec a.post-jobnow-btn {
+    padding: 12px 30px 11px;
+}
+.post-job-cont .modl-terms .nav-tabs .nav-item .nav-link {
+    padding: 12px 24px;
+}
+/*.post-job-cont .modl-terms .tab-content .main-sp {
+    display: block;
+    float: left;
+    width: 100%;
+}*/
+.post-job-cont .card-body .post-jb-qufns .left-side.misc-field {
+    /*height: 90px;*/
+    width: 110px;
+    padding: 5px;
+}
+.cotrct-rdio .checkmark {
+    top: 2px;
+    height: 20px;
+    width: 20px;
+}
+.end-cotrct-sec .end-cotrct-mn .end-body .project-name ul li {
+    width: 20px;
+    margin: 0px 2px 0px 0px;
+}	
+#frame .content .messages ul li p {
+    max-width: 250px;
+}
+#frame .content .messages ul li.replies p span img.mesg-img {
+    max-width: 85px;
+}
+#frame {
+    min-width: 100%;
+}
+.freelanImg img {
+    width: 40px;
+    height: 40px;
+}
+.freelanImg {
+    min-width: 40px;
+}
+.modal.modl-jb-lst2 .modal-body .modl-wrk-hstry .baknd-dvlpr ul.work-hur-ul li {
+    font-size: 14px;
+    padding: 0px 30px 0px 15px;
+}
+.reports-info.reprt-resp-sec .inner-report-cont .otherLinks.vew-propsl-ul ul.nav li a {
+    padding: 8px 10px;
+}
+.form.form-input-set.gnrl-set-mb .form-group {
+    padding: 15px 20px 0px 20px;
+}
+.form.form-input-set.gnrl-set-mb .form-group input {
+   width:100%;
+}
+
+}	
